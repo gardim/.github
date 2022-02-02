@@ -24,3 +24,13 @@ Já o aplicativo tem a função de identificar a planta e pegar as informações
 sobrevivência, como por exemplo qual sua quantidade de luz ideal e qual a quantidade e frequência da água ela precisa. Com os
 indicadores vindos do vaso, faz a verificação para saber se a planta está condizente com as suas condições ideais, e caso não
 esteja, informa ao usuário que a planta necessita de mais luz solar ou mais água, por exemplo.
+
+## 👥 Quem somos?
+### 🧙‍♂️ Lavínia
+Responsável pela criação do aplicativo, desenho dos layouts, testes e comunicação.
+
+### 👨‍🏭 Brendow
+Responsável pela criação da inteligência do vaso e desenvolvimento do vídeo de divulgação.
+
+### 🦸‍♂️ Flavio
+Principal razão para a existência do site
