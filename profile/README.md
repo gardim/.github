@@ -26,11 +26,9 @@ indicadores vindos do vaso, faz a verificação para saber se a planta está con
 esteja, informa ao usuário que a planta necessita de mais luz solar ou mais água, por exemplo.
 
 ## 👥 Quem somos?
-### 🧙‍♂️ Lavínia
-Responsável pela criação do aplicativo, desenho dos layouts, testes e comunicação.
 
-### 👨‍🏭 Brendow
-Responsável pela criação da inteligência do vaso e desenvolvimento do vídeo de divulgação.
+| 🧙‍♂️ Lavínia |  👨‍🏭 Brendow |  🦸‍♂️ Flavio|
+| :----: | :----: | :-----:|
+Responsável pela criação do aplicativo, desenho dos layouts, testes e comunicação. | Responsável pela criação da inteligência do vaso e desenvolvimento do vídeo de divulgação.| Principal razão para a existência do site |
 
-### 🦸‍♂️ Flavio
-Principal razão para a existência do site
+
