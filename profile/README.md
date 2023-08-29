@@ -27,8 +27,7 @@ esteja, informa ao usuário que a planta necessita de mais luz solar ou mais ág
 
 ## 👥 Quem somos?
 
-| 🧙‍♂️ Lavínia |  👨‍🏭 Brendow |  🦸‍♂️ Flavio|
-| :----: | :----: | :-----:|
-Responsável pela criação do aplicativo, desenho dos layouts, testes e comunicação. | Responsável pela criação da inteligência do vaso e desenvolvimento do vídeo de divulgação.| Principal razão para a existência do site |
-
+| 🧙‍♂️ Lavínia | 
+| :----: |
+Responsável pela criação do aplicativo, desenho dos layouts, testes e comunicação. | 
 
